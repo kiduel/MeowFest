@@ -44,18 +44,6 @@ public class MainActivity extends AppCompatActivity {
                 Toast.makeText(MainActivity.this, "No cats", Toast.LENGTH_SHORT).show();
             }
         });
-
-//
-//        cats.add(new Cat("title", "now", "non", "hellow"));
-//        cats.add(new Cat("title", "now", "non", "hellow"));
-//        cats.add(new Cat("title", "now", "non", "hellow"));
-//        cats.add(new Cat("title", "now", "non", "hellow"));
-//        cats.add(new Cat("title", "now", "non", "hellow"));
-//        cats.add(new Cat("title", "now", "non", "hellow"));
-//        cats.add(new Cat("title", "now", "non", "hellow"));
-//        cats.add(new Cat("title", "now", "non", "hellow"));
-//        cats.add(new Cat("title", "now", "non", "hellow"));
-
     }
 
     /*Method to generate List of data using RecyclerView with custom adapter*/
